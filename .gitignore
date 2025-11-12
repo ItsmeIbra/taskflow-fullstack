@@ -1,0 +1,11 @@
+# Node
+node_modules/
+build/
+.env
+
+# Laravel
+/vendor/
+/node_modules/
+.env
+/storage/
+.idea/
